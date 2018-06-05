@@ -1,0 +1,30 @@
+{
+  "name": "gulpstudy",
+  "version": "1.0.0",
+  "description": "gulp study",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "gulp-watch":"gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayi-anywehere/gulpStudy.git"
+  },
+  "author": "yaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayi-anywehere/gulpStudy/issues"
+  },
+  "homepage": "https://github.com/yayi-anywehere/gulpStudy#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4"
+  },
+  "dependencies": {
+    "gulp-less": "^3.5.0"
+  }
+}
